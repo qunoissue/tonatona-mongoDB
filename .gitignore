@@ -1,4 +1,3 @@
-*.cabal
 dist
 dist-*
 cabal-dev
