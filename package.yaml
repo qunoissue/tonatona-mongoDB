@@ -1,4 +1,4 @@
-name: tonatona-mongodb
+name: tonatona-mongoDB
 version: "0.1.0.0"
 category: Database, Library, Tonatona
 synopsis: tonatona plugin for accessing MongoDB database.
@@ -70,7 +70,7 @@ tests:
     source-dirs:
       - test
     dependencies:
-      - tonatona-mongodb
+      - tonatona-mongoDB
       - hspec
       - QuickCheck
   doctest:
@@ -79,8 +79,8 @@ tests:
     source-dirs:
       - test
     dependencies:
-      - tonatona-mongodb
+      - tonatona-mongoDB
       - doctest
       - Glob
 
-github: qunoissue/tonatona-mongodb
+github: qunoissue/tonatona-mongoDB
